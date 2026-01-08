@@ -1,0 +1,43 @@
+{
+    "settings": {
+        "width": 9,
+        "height": 5,
+        "start_money": 100,
+        "lives": 1,
+        "auto_sun_amount": 50,
+        "auto_sun_interval": 8.0,
+        "active_rows": [ 1, 2, 3 ]
+    },
+    "waves": [
+        {
+            "time": 2.0,
+            "type": 0,
+            "row": 2
+        },
+        {
+            "time": 10.0,
+            "type": 1,
+            "row": 1
+        },
+        {
+            "time": 20.0,
+            "type": 2,
+            "row": 2
+        },
+        {
+            "time": 30.0,
+            "type": 7,
+            "row": 2
+        },
+        {
+            "time": 32.0,
+            "type": 1,
+            "row": 3
+        },
+        {
+            "time": 35.0,
+            "type": 1,
+            "row": 1
+        }
+    ]
+}
